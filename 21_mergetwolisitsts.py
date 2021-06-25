@@ -11,4 +11,4 @@ class Solution:
         d = None
         while l1 or l2:
             pass
-        return head.next
+        return head.next  
